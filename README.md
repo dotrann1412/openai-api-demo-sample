@@ -1,6 +1,6 @@
 # Sample Chatapp Service
 
-## Application term
+## Created for
 
 - Chat app backend services
 - Webhooks / Bot
